@@ -1,0 +1,3424 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2019 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2019 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2019 MARVEL",
+    "data": {
+        "count": 20,
+        "limit": 20,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/18454/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/18454/comics",
+                    "items": [
+                        {
+                            "name": "100th Anniversary Special (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49011"
+                        },
+                        {
+                            "name": "100th Anniversary Special (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49007"
+                        },
+                        {
+                            "name": "100th Anniversary Special (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49008"
+                        },
+                        {
+                            "name": "100th Anniversary Special (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49010"
+                        },
+                        {
+                            "name": "100th Anniversary Special (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49009"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/18454/creators",
+                    "items": [
+                        {
+                            "name": "Andy Lanning",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Sean Ryan",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9432",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Jennifer Van Meter",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11788",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "In-Hyuk Lee",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12328",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "David Lopez",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12392",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "description": null,
+                "endYear": 2014,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/18454/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 18454,
+                "modified": "2017-10-26T14:29:46-0400",
+                "next": null,
+                "previous": null,
+                "rating": "Rated T",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/18454",
+                "startYear": 2014,
+                "stories": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/18454/stories",
+                    "items": [
+                        {
+                            "name": "cover from 100th Anniversary Special (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110101",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 100th Anniversary Special (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110102",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 100th Anniversary Special (2014) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110103",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 100th Anniversary Special (2014) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110104",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 100th Anniversary Special (2014) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110105",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 100th Anniversary Special (2014) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110106",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 100th Anniversary Special (2014) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110107",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 100th Anniversary Special (2014) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110108",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 100th Anniversary Special (2014) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110109",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 100th Anniversary Special (2014) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110110",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "100th Anniversary Special (2014)",
+                "type": "limited",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/18454/100th_anniversary_special_2014?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/comics",
+                    "items": [
+                        {
+                            "name": "15 Love (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37254"
+                        },
+                        {
+                            "name": "15 Love (2011) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37251"
+                        },
+                        {
+                            "name": "15 Love (2011) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37253"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/creators",
+                    "items": [
+                        {
+                            "name": "Tommy Ohtsuka",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/274",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Andi Watson",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/496",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Jordan White",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "description": null,
+                "endYear": 2011,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 13379,
+                "modified": "2015-09-22T17:11:46-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13379",
+                "startYear": 2011,
+                "stories": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/stories",
+                    "items": [
+                        {
+                            "name": "Cover #82480",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82480",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #82481",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82481",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #82484",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82484",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #82485",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82485",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "15-Love (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82486",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #82487",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82487",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 15-Love #1.5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/106025",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "cover from 15-Love #2.5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/106026",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "cover from 15-Love #3.5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/106027",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51644d6b47668"
+                },
+                "title": "15 Love (2011)",
+                "type": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/13379/15_love_2011?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13380/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13380/comics",
+                    "items": [
+                        {
+                            "name": "15-Love GN-TPB (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37252"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13380/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": null,
+                "endYear": 2099,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13380/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 13380,
+                "modified": "2011-10-14T16:22:04-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13380",
+                "startYear": 2013,
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/13380/stories",
+                    "items": [
+                        {
+                            "name": "15-Love GN-TPB (2013) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82482",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #82483",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82483",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "15-Love GN-TPB (2013 - Present)",
+                "type": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/13380/15-love_gn-tpb_2013_-_present?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/489/characters",
+                    "items": [
+                        {
+                            "name": "Cyclops",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257"
+                        },
+                        {
+                            "name": "Doctor Doom",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281"
+                        },
+                        {
+                            "name": "Magneto",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417"
+                        },
+                        {
+                            "name": "Matthew Murdock",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009463"
+                        },
+                        {
+                            "name": "Natasha Romanoff",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009547"
+                        },
+                        {
+                            "name": "Nick Fury",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471"
+                        },
+                        {
+                            "name": "Spider-Man (1602)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011054"
+                        },
+                        {
+                            "name": "The Watchers",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009661"
+                        },
+                        {
+                            "name": "Virginia Dare",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010697"
+                        },
+                        {
+                            "name": "X-Men",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "comics": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/489/comics",
+                    "items": [
+                        {
+                            "name": "1602 (2003) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20630"
+                        },
+                        {
+                            "name": "1602 (2003) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50114"
+                        },
+                        {
+                            "name": "1602 (2003) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/377"
+                        },
+                        {
+                            "name": "1602 (2003) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/148"
+                        },
+                        {
+                            "name": "1602 (2003) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/147"
+                        },
+                        {
+                            "name": "1602 (2003) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/146"
+                        },
+                        {
+                            "name": "1602 (2003) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/145"
+                        },
+                        {
+                            "name": "1602 (2003) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/440"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/489/creators",
+                    "items": [
+                        {
+                            "name": "Neil Gaiman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/567",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Andy Kubert",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Scott McKowen",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/566",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "description": "Award-winning writer Neil Gaiman teams with artist Andy Kubert to re-imagine the Marvel Universe in the year 1602! It's Spider-Man, the X-Men, Nick Fury, Doctor Strange, Daredevil and more as you'd never think to imagine them in an utterly unique and thrilling tale of high adventure!",
+                "endYear": 2004,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/489/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 489,
+                "modified": "2013-07-08T16:27:38-0400",
+                "next": {
+                    "name": "Marvel 1602: New World (2005)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/783"
+                },
+                "previous": null,
+                "rating": "Marvel Psr",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/489",
+                "startYear": 2003,
+                "stories": {
+                    "available": 15,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/489/stories",
+                    "items": [
+                        {
+                            "name": "Cover #1600",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1600",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #1601",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1601",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #1616",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1616",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #1617",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1617",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #1723",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1723",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #1724",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1724",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #1770",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1770",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #1771",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1771",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #2264",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2264",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #2265",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2265",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1602 #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2629",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1602 #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2630",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #44869",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44869",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #44870",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44870",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover from 1602 #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113142",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 15
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/51926fde9c18a"
+                },
+                "title": "1602 (2003 - 2004)",
+                "type": "limited",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/489/1602_2003_-_2004?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19244/characters",
+                    "items": [
+                        {
+                            "name": "Angela (Aldrif Odinsdottir)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017574"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19244/comics",
+                    "items": [
+                        {
+                            "name": "1602 Witch Hunter Angela (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51198"
+                        },
+                        {
+                            "name": "1602 Witch Hunter Angela (2015) #1 (Christopher Gwengela Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55028"
+                        },
+                        {
+                            "name": "1602 Witch Hunter Angela (2015) #1 (Isanove Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/54728"
+                        },
+                        {
+                            "name": "1602 Witch Hunter Angela (2015) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51199"
+                        },
+                        {
+                            "name": "1602 Witch Hunter Angela (2015) #2 (Koh Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55191"
+                        },
+                        {
+                            "name": "1602 Witch Hunter Angela (2015) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51200"
+                        },
+                        {
+                            "name": "1602 Witch Hunter Angela (2015) #3 (Irving Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56248"
+                        },
+                        {
+                            "name": "1602 Witch Hunter Angela (2015) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51201"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19244/creators",
+                    "items": [
+                        {
+                            "name": "Marguerite Bennett",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Kieron Gillen",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "John Tyler Christopher",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10405",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Richard Isanove",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13055",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Irene Koh",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12756",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Stephanie Hans",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Frazer Irving",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1063",
+                            "role": "artist"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "description": null,
+                "endYear": 2015,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19244/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 19244,
+                "modified": "2017-10-26T14:30:43-0400",
+                "next": null,
+                "previous": null,
+                "rating": "Rated T+",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/19244",
+                "startYear": 2015,
+                "stories": {
+                    "available": 16,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19244/stories",
+                    "items": [
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113973",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113974",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela (2015) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113975",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela (2015) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113976",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela (2015) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113977",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela (2015) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113978",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela (2015) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113979",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela (2015) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113980",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/120677",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/120678",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST MISTRESS OF GWENG FU VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121219",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST MISTRESS OF GWENG FU VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121220",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela (2015) #2 (TBD ARTIST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121474",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela (2015) #2 (TBD ARTIST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121475",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela (2015) #3 (IRVING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/123459",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela (2015) #3 (IRVING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/123460",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 16
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/553a60a66f2f6"
+                },
+                "title": "1602 Witch Hunter Angela (2015)",
+                "type": "limited",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/19244/1602_witch_hunter_angela_2015?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20293/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20293/comics",
+                    "items": [
+                        {
+                            "name": "1602 Witch Hunter Angela (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/54908"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20293/creators",
+                    "items": [
+                        {
+                            "name": "Marguerite Bennett",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Kieron Gillen",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Stephanie Hans",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Jeff Youngquist",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "description": null,
+                "endYear": 2016,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20293/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 20293,
+                "modified": "2016-02-05T13:09:46-0500",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/20293",
+                "startYear": 2016,
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20293/stories",
+                    "items": [
+                        {
+                            "name": "cover from 1602 Witch Hunter Angela/Rangers of the Shield (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121011",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1602 Witch Hunter Angela/Rangers of the Shield (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121012",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "1602 Witch Hunter Angela (2016)",
+                "type": "collection",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/20293/1602_witch_hunter_angela_2016?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19501/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19501/comics",
+                    "items": [
+                        {
+                            "name": "1872 (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52072"
+                        },
+                        {
+                            "name": "1872 (2015) #1 (Young Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52073"
+                        },
+                        {
+                            "name": "1872 (2015) #1 (Shaner Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55058"
+                        },
+                        {
+                            "name": "1872 (2015) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52074"
+                        },
+                        {
+                            "name": "1872 (2015) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52075"
+                        },
+                        {
+                            "name": "1872 (2015) #3 (Francavilla Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56249"
+                        },
+                        {
+                            "name": "1872 (2015) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52076"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "creators": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19501/creators",
+                    "items": [
+                        {
+                            "name": "Vc Clayton Cowles",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Gerry Duggan",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Francesco Francavilla",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11886",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Leonard Kirk",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Alex Maleev",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Skottie Young",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Evan Doc Shaner",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12708",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Jacob Thomas",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Nik Virella",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12483",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "description": null,
+                "endYear": 2015,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19501/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 19501,
+                "modified": "2017-10-26T14:31:35-0400",
+                "next": null,
+                "previous": null,
+                "rating": "Rated T+",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/19501",
+                "startYear": 2015,
+                "stories": {
+                    "available": 14,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/19501/stories",
+                    "items": [
+                        {
+                            "name": "cover from Marvel 1862 (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115721",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from Marvel 1862 (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115722",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from Marvel 1862 (2015) #1 (YOUNG VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115723",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from Marvel 1862 (2015) #1 (YOUNG VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115724",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from Marvel 1862 (2015) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115725",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from Marvel 1862 (2015) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115726",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from Marvel 1862 (2015) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115727",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from Marvel 1862 (2015) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115728",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from Marvel 1862 (2015) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115729",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from Marvel 1862 (2015) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/115730",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from Marvel 1862 (2015) #1 (SHANER VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121278",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from Marvel 1862 (2015) #1 (SHANER VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/121279",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover from 1872 (2015) #3 (TBD ARTIST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/123461",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from 1872 (2015) #3 (TBD ARTIST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/123462",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 14
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/553a60e7ab48d"
+                },
+                "title": "1872 (2015)",
+                "type": "limited",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/19501/1872_2015?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7520/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7520/comics",
+                    "items": [
+                        {
+                            "name": "1939 Daily Bugle (2009) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24321"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7520/creators",
+                    "items": [
+                        {
+                            "name": "Chance Fiveash",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10024",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Bob Greenberger",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8123",
+                            "role": "other"
+                        },
+                        {
+                            "name": "Jess Harold",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9718",
+                            "role": "other"
+                        },
+                        {
+                            "name": "Sheila Johnson",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7935",
+                            "role": "other"
+                        },
+                        {
+                            "name": "Brian O'Dell",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8155",
+                            "role": "other"
+                        },
+                        {
+                            "name": "John Rhett Thomas",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10363",
+                            "role": "other"
+                        },
+                        {
+                            "name": "Dugan Trodglen",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8402",
+                            "role": "other"
+                        },
+                        {
+                            "name": "JEPH YORK",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7553",
+                            "role": "other"
+                        },
+                        {
+                            "name": "Mike Mayhew",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/243",
+                            "role": "colorist"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "description": null,
+                "endYear": 2099,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7520/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 7520,
+                "modified": "2011-04-29T14:04:00-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/7520",
+                "startYear": 2009,
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7520/stories",
+                    "items": [
+                        {
+                            "name": "Cover #54073",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54073",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54074",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54074",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/d0/4bb4eafadecaf"
+                },
+                "title": "1939 Daily Bugle (2009 - Present)",
+                "type": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/7520/1939_daily_bugle_2009_-_present?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7521/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 11,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7521/comics",
+                    "items": [
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24328"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24329"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24336"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24338"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24339"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24323"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24340"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24324"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24341"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24325"
+                        },
+                        {
+                            "name": "2009 Mini-Poster 6 (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24342"
+                        }
+                    ],
+                    "returned": 11
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7521/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": null,
+                "endYear": 2099,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7521/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 7521,
+                "modified": "2011-04-29T14:04:00-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/7521",
+                "startYear": 2009,
+                "stories": {
+                    "available": 42,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7521/stories",
+                    "items": [
+                        {
+                            "name": "Cover #53882",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53882",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #53883",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53883",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #53981",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53981",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #53982",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53982",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54075",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54075",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54076",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54076",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54077",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54077",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54078",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54078",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54079",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54079",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54080",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54080",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54081",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54081",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54082",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54082",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54083",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54083",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54084",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54084",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54085",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54085",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54086",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54086",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54087",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54087",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54088",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54088",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54089",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54089",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54090",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54090",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "2009 Mini-Poster 6 (2009 - Present)",
+                "type": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/7521/2009_mini-poster_6_2009_-_present?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9107/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9107/comics",
+                    "items": [
+                        {
+                            "name": "2009/2010 Poster (2009) #153",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28646"
+                        },
+                        {
+                            "name": "2009/2010 Poster (2009) #154",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28675"
+                        },
+                        {
+                            "name": "2009/2010 Poster (2009) #156",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28677"
+                        },
+                        {
+                            "name": "2009/2010 Poster (2009) #159",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28680"
+                        },
+                        {
+                            "name": "2009/2010 Poster (2009) #160",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28681"
+                        },
+                        {
+                            "name": "2009/2010 Poster (2009) #161",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28682"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9107/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": null,
+                "endYear": 2099,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9107/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 9107,
+                "modified": "2011-04-29T14:04:00-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/9107",
+                "startYear": 2009,
+                "stories": {
+                    "available": 14,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9107/stories",
+                    "items": [
+                        {
+                            "name": "Cover #62487",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62487",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62488",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62488",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62546",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62546",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62547",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62547",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62548",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62548",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62549",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62549",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62550",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62550",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62551",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62551",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62556",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62556",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62557",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62557",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62558",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62558",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62559",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62559",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62560",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62560",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62561",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62561",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 14
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "2009/2010 Poster (2009 - Present)",
+                "type": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/9107/20092010_poster_2009_-_present?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9108/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9108/comics",
+                    "items": [
+                        {
+                            "name": "2009/2010 Poster (Pop) (2009) #153",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28647"
+                        },
+                        {
+                            "name": "2009/2010 Poster (Pop) (2009) #154",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28657"
+                        },
+                        {
+                            "name": "2009/2010 Poster (Pop) (2009) #156",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28659"
+                        },
+                        {
+                            "name": "2009/2010 Poster (Pop) (2009) #159",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28662"
+                        },
+                        {
+                            "name": "2009/2010 Poster (Pop) (2009) #160",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28663"
+                        },
+                        {
+                            "name": "2009/2010 Poster (Pop) (2009) #161",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28664"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9108/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": null,
+                "endYear": 2099,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9108/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 9108,
+                "modified": "2011-04-29T14:04:00-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/9108",
+                "startYear": 2009,
+                "stories": {
+                    "available": 16,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/9108/stories",
+                    "items": [
+                        {
+                            "name": "Cover #62489",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62489",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62490",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62490",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62507",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62507",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62508",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62508",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62509",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62509",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62510",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62510",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62511",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62511",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62512",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62512",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62515",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62515",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62516",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62516",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62517",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62517",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62518",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62518",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62519",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62519",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62520",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62520",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #62521",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62521",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #62522",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62522",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 16
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "2009/2010 Poster (Pop) (2009 - Present)",
+                "type": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/9108/20092010_poster_pop_2009_-_present?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20018/characters",
+                    "items": [
+                        {
+                            "name": "Spider-Man (2099)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014873"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20018/comics",
+                    "items": [
+                        {
+                            "name": "2099 Unlimited (1993) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/53425"
+                        },
+                        {
+                            "name": "2099 Unlimited (1993) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/53426"
+                        },
+                        {
+                            "name": "2099 Unlimited (1993) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/53427"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20018/creators",
+                    "items": [
+                        {
+                            "name": "J.j. Birch",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3780",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Gerard Jones",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/376",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Evan Skolnick",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3796",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Dwayne Turner",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1281",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Chris Wozniak",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3648",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "description": null,
+                "endYear": 1994,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20018/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 20018,
+                "modified": "2016-09-22T17:11:45-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/20018",
+                "startYear": 1993,
+                "stories": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/20018/stories",
+                    "items": [
+                        {
+                            "name": "cover to 2099 Unlimited (1993) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/135161",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "interior to 2099 Unlimited (1993) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/135162",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover to 2099 Unlimited (1993) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/135163",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "interior to 2099 Unlimited (1993) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/135164",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "cover to 2099 Unlimited (1993) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/135165",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "interior to 2099 Unlimited (1993) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/135166",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/57e448f5d8a2f"
+                },
+                "title": "2099 Unlimited (1993 - 1994)",
+                "type": "limited",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/20018/2099_unlimited_1993_-_1994?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/725/characters",
+                    "items": [
+                        {
+                            "name": "Doctor Doom",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281"
+                        },
+                        {
+                            "name": "Fantastic Four",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299"
+                        },
+                        {
+                            "name": "Human Torch",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356"
+                        },
+                        {
+                            "name": "Invisible Woman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366"
+                        },
+                        {
+                            "name": "Mr. Fantastic",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459"
+                        },
+                        {
+                            "name": "Namor",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009466"
+                        },
+                        {
+                            "name": "Psycho-Man",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009511"
+                        },
+                        {
+                            "name": "Thing",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "comics": {
+                    "available": 30,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/725/comics",
+                    "items": [
+                        {
+                            "name": "4 (2004) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/356"
+                        },
+                        {
+                            "name": "4 (2004) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/388"
+                        },
+                        {
+                            "name": "4 (2004) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/404"
+                        },
+                        {
+                            "name": "4 (2004) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/471"
+                        },
+                        {
+                            "name": "4 (2004) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/498"
+                        },
+                        {
+                            "name": "4 (2004) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/682"
+                        },
+                        {
+                            "name": "4 (2004) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1812"
+                        },
+                        {
+                            "name": "4 (2004) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/571"
+                        },
+                        {
+                            "name": "4 (2004) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/556"
+                        },
+                        {
+                            "name": "4 (2004) #10",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/811"
+                        },
+                        {
+                            "name": "4 (2004) #11",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/892"
+                        },
+                        {
+                            "name": "4 (2004) #12",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52"
+                        },
+                        {
+                            "name": "4 (2004) #13",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1496"
+                        },
+                        {
+                            "name": "4 (2004) #14",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1584"
+                        },
+                        {
+                            "name": "4 (2004) #15",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1670"
+                        },
+                        {
+                            "name": "4 (2004) #16",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1771"
+                        },
+                        {
+                            "name": "4 (2004) #17",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1875"
+                        },
+                        {
+                            "name": "4 (2004) #18",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1977"
+                        },
+                        {
+                            "name": "4 (2004) #19",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2120"
+                        },
+                        {
+                            "name": "4 (2004) #20",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2230"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "creators": {
+                    "available": 26,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/725/creators",
+                    "items": [
+                        {
+                            "name": "Roberto Aguirre-Sacasa",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Matt Banning",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/779",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Matthew Banning",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13346",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Derek Fridolfs",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/689",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Scott Hanna",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Mark Morales",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Jim Royal",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/777",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Mizuki Sakakibara",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/555",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Virtual Calligraphy",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7129",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Vc Randy Gentile",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Cory Petit",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Gary Frank",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/308",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Greg Land",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Carlo Pagualyan",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/6806",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Morry Hollowell",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Brian Reber",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Valentine De Landro",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/778",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Clay Mann",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/757",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Steve Mcniven",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Jim Muniz",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/775",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "description": null,
+                "endYear": 2006,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/725/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 725,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "next": null,
+                "previous": null,
+                "rating": "MARVEL PSR",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/725",
+                "startYear": 2004,
+                "stories": {
+                    "available": 60,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/725/stories",
+                    "items": [
+                        {
+                            "name": "3 of 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3039",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3040",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3041",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3042",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3042",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3043",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3044",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3044",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3045",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3046",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3046",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3047",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3048",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3048",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3049",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3050",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3050",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3051",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3052",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3052",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3053",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3054",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3054",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3055",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3056",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3056",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #10",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3057",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "\"THE STUFF OF DREAMS\" 1 (OF 3) Something very, very strange is happening to New York\u2019s First Family of Super Heroes. Their deepe",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3058",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc69d6c705cb"
+                },
+                "title": "4 (2004 - 2006)",
+                "type": "ongoing",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/725/4_2004_-_2006?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1251/characters",
+                    "items": [
+                        {
+                            "name": "Fantastic Four",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299"
+                        },
+                        {
+                            "name": "Human Torch",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356"
+                        },
+                        {
+                            "name": "Invisible Woman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366"
+                        },
+                        {
+                            "name": "Thing",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1251/comics",
+                    "items": [
+                        {
+                            "name": "4 Vol. 1: Wolf at the Door (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1328"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1251/creators",
+                    "items": [
+                        {
+                            "name": "Roberto Aguirre-Sacasa",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Virtual Calligraphy",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7129",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Vc Randy Gentile",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Morry Hollowell",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Steve Mcniven",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Mark Morales",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Warren Simons",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4593",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "description": null,
+                "endYear": 2004,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1251/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 1251,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "next": null,
+                "previous": null,
+                "rating": "MARVEL PSR",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1251",
+                "startYear": 2004,
+                "stories": {
+                    "available": 15,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1251/stories",
+                    "items": [
+                        {
+                            "name": "4 (2004) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3041",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3042",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3042",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3043",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3044",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3044",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3045",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3046",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3046",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3047",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3048",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3048",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3049",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3050",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3050",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3055",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3056",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3056",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3069",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3070",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3070",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 VOL. 1: WOLF AT THE DOOR 0 cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/65688",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 15
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc69d6c705cb"
+                },
+                "title": "4 Vol. 1: Wolf at the Door (2004)",
+                "type": "collection",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/1251/4_vol_1_wolf_at_the_door_2004?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1253/characters",
+                    "items": [
+                        {
+                            "name": "Fantastic Four",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299"
+                        },
+                        {
+                            "name": "Human Torch",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356"
+                        },
+                        {
+                            "name": "Invisible Woman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366"
+                        },
+                        {
+                            "name": "Mr. Fantastic",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459"
+                        },
+                        {
+                            "name": "Namor",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009466"
+                        },
+                        {
+                            "name": "Psycho-Man",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009511"
+                        },
+                        {
+                            "name": "Thing",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1253/comics",
+                    "items": [
+                        {
+                            "name": "4 Vol. 2: The Stuff of Nightmares (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1550"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1253/creators",
+                    "items": [
+                        {
+                            "name": "Roberto Aguirre-Sacasa",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Vc Randy Gentile",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Dave Sharpe",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Scott Hanna",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Mark Morales",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Morry Hollowell",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Brian Reber",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Jim Muniz",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/775",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "description": null,
+                "endYear": 2005,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1253/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 1253,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "next": null,
+                "previous": null,
+                "rating": "MARVEL PSR",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1253",
+                "startYear": 2005,
+                "stories": {
+                    "available": 11,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1253/stories",
+                    "items": [
+                        {
+                            "name": "3 of 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3039",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3040",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3051",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3052",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3052",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3053",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3054",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3054",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 (2004) #10",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3057",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "\"THE STUFF OF DREAMS\" 1 (OF 3) Something very, very strange is happening to New York\u2019s First Family of Super Heroes. Their deepe",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3058",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "\"THE STUFF OF DREAMS\" PART 2 (OF 3) With a diseased Psycho-Man loose somewhere in the city, the very fabric of New York\u2019s realit",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3059",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "\"THE STUFF OF DREAMS\" PART 2 (OF 3) With a diseased Psycho-Man loose somewhere in the city, the very fabric of New York\u2019s realit",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3060",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 VOL. 2: THE STUFF OF NIGHTMARES 0 cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/65690",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 11
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc6570d18f3c"
+                },
+                "title": "4 Vol. 2: The Stuff of Nightmares (2005)",
+                "type": "collection",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/1253/4_vol_2_the_stuff_of_nightmares_2005?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1423/characters",
+                    "items": [
+                        {
+                            "name": "Doctor Doom",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281"
+                        },
+                        {
+                            "name": "Fantastic Four",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1423/comics",
+                    "items": [
+                        {
+                            "name": "4 Vol. 3: Divine Time (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2189"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1423/creators",
+                    "items": [
+                        {
+                            "name": "Derek Fridolfs",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/689",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Jim Royal",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/777",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Greg Land",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Jim Muniz",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/775",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Cory Petit",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Brian Reber",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+                            "role": "colorist"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "description": null,
+                "endYear": 2005,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1423/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 1423,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "next": null,
+                "previous": null,
+                "rating": "T",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1423",
+                "startYear": 2005,
+                "stories": {
+                    "available": 13,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/1423/stories",
+                    "items": [
+                        {
+                            "name": "1 of 2 - Eyes Without a Face",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3061",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 2 - Eyes Without a Face",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3062",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 2 - Eyes Without a Face",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3063",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 2 - Eyes Without a Face",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3064",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 4 - Divine Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3065",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 4 - Divine Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3066",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 4 - Divine Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3067",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 4 - Divine Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3068",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 4 - Divine Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3071",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 4 - Divine Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3072",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 4 - Divine Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3073",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 4 - Divine Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3074",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 VOL. 3: DIVINE TIME 0 cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/65807",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 13
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc654a09a5be"
+                },
+                "title": "4 Vol. 3: Divine Time (2005)",
+                "type": "collection",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/1423/4_vol_3_divine_time_2005?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/15276/characters",
+                    "items": [
+                        {
+                            "name": "Deadpool",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268"
+                        },
+                        {
+                            "name": "Hulk",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351"
+                        },
+                        {
+                            "name": "Punisher",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515"
+                        },
+                        {
+                            "name": "Wolverine",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "comics": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/15276/comics",
+                    "items": [
+                        {
+                            "name": "5 Ronin (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41112"
+                        },
+                        {
+                            "name": "5 Ronin (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41113"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "creators": {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/15276/creators",
+                    "items": [
+                        {
+                            "name": "David Aja",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "name": "Laura Martin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "name": "Laurence Campbell",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Leandro Fernandez",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Vc Joe Caramagna",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "John Cassaday",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Tomm Coker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Dalibor Talajic",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11560",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Daniel Freedman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8309",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Lee Loughridge",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Peter Milligan",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Jeff Youngquist",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                            "role": "artist"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "description": null,
+                "endYear": 2011,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/15276/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 15276,
+                "modified": "2011-05-20T16:25:29-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/15276",
+                "startYear": 2011,
+                "stories": {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/15276/stories",
+                    "items": [
+                        {
+                            "name": "Interior #80038",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80038",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80039",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 RONIN 3 AJA COVER  ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80052",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80748",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80749",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/89879",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #1 ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/89880",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #3 Aja Cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90212",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90349",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90404",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin HC",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/93074",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin HC DM Only Variant",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/93075",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "5 Ronin (2011)",
+                "type": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/15276/5_ronin_2011?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12429/characters",
+                    "items": [
+                        {
+                            "name": "Deadpool",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268"
+                        },
+                        {
+                            "name": "Hulk",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351"
+                        },
+                        {
+                            "name": "Psylocke",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512"
+                        },
+                        {
+                            "name": "Punisher",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515"
+                        },
+                        {
+                            "name": "Wolverine",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "comics": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12429/comics",
+                    "items": [
+                        {
+                            "name": "5 Ronin (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38756"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #1 (AJA Cover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36162"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36365"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #2 (BROOKS COVER)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38753"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35220"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #3 (CAMUNCOLI COVER)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38754"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35204"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #4 (MACK COVER)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38752"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36160"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #5 (MCGUINNESS COVER)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38751"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "creators": {
+                    "available": 17,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12429/creators",
+                    "items": [
+                        {
+                            "name": "David Aja",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "name": "Frank D'ARMATA",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "name": "Laura Martin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "name": "Mark Brooks",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "name": "John Cassaday",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+                            "role": "penciler (cover)"
+                        },
+                        {
+                            "name": "Laurence Campbell",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Tomm Coker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Dalibor Talajic",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11560",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Giuseppe Camuncoli",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+                            "role": "inker (cover)"
+                        },
+                        {
+                            "name": "Vc Joe Caramagna",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Leandro Fernandez",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Daniel Freedman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8309",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Lee Loughridge",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "David Mack",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/23",
+                            "role": "painter (cover)"
+                        },
+                        {
+                            "name": "Ed Mcguinness",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Peter Milligan",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Goran Parlov",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/674",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 17
+                },
+                "description": null,
+                "endYear": 2010,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12429/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 12429,
+                "modified": "2017-08-11T18:08:31-0400",
+                "next": null,
+                "previous": null,
+                "rating": "T+",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+                "startYear": 2010,
+                "stories": {
+                    "available": 17,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12429/stories",
+                    "items": [
+                        {
+                            "name": "Interior #80038",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80038",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80039",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80047",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 RONIN 3 AJA COVER  ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80052",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80748",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80749",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/89879",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #1 ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/89880",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #2 Brooks Cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90011",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 RONIN 3 CAMUNCOLI VARIANT ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90100",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #3 Aja Cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90212",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #3 Camuncoli Cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90213",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #90334",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90334",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #90335",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90335",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 Ronin #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90349",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #5 McGuinness Variant",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90403",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 Ronin #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/90404",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 17
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/598e2ab495a36"
+                },
+                "title": "5 Ronin (2010)",
+                "type": "limited",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/12429/5_ronin_2010?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12989/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12989/comics",
+                    "items": [
+                        {
+                            "name": "5 Ronin TPB (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36599"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12989/creators",
+                    "items": [
+                        {
+                            "name": "David Aja",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Laurence Campbell",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "John Cassaday",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Tomm Coker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Goran Parlov",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/674",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Dalibor Talajic",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10082",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Peter Milligan",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "description": null,
+                "endYear": 2099,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12989/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 12989,
+                "modified": "2011-11-17T13:15:17-0500",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/12989",
+                "startYear": 2010,
+                "stories": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/12989/stories",
+                    "items": [
+                        {
+                            "name": "Cover #81222",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81222",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #81223",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81223",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/106028",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "5 Ronin TPB (2010 - Present)",
+                "type": "collection",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/12989/5_ronin_tpb_2010_-_present?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7082/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7082/comics",
+                    "items": [
+                        {
+                            "name": "70th Anniversary Alan Davis Poster (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23915"
+                        },
+                        {
+                            "name": "70th Anniversary Alan Davis Poster (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24346"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7082/creators",
+                    "items": [
+                        {
+                            "name": "Alan Davis",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": null,
+                "endYear": 2099,
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7082/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 7082,
+                "modified": "2011-04-29T14:04:00-0400",
+                "next": null,
+                "previous": null,
+                "rating": "",
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/7082",
+                "startYear": 2009,
+                "stories": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/series/7082/stories",
+                    "items": [
+                        {
+                            "name": "Cover #53046",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53046",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #53047",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53047",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #54121",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54121",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #54122",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54122",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4bb579f597e57"
+                },
+                "title": "70th Anniversary Alan Davis Poster (2009 - Present)",
+                "type": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/7082/70th_anniversary_alan_davis_poster_2009_-_present?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ]
+            }
+        ],
+        "total": 10816
+    },
+    "etag": "675dec4f1ae22b2d486b7e27be7b426688a43b4e",
+    "status": "Ok"
+}

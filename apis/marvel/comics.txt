@@ -1,0 +1,2130 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2019 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2019 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2019 MARVEL",
+    "data": {
+        "count": 20,
+        "limit": 20,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/20956/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/20956/creators",
+                    "items": [
+                        {
+                            "name": "Paul Gulacy",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/222",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Paul Jenkins",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "From the pages of CIVIL WAR: FRONT LINE and THUNDERBOLTS! Once he was a hero, now only a shell of Robbie Baldwin remains. As Penance, he begins a slow descent into madness: the most hated man in America, blamed for the disaster at Stamford, tortured by visions of his failure and obsessed with strange, seemingly meaningless numbers. A relentless pursuit begins... Collecting PENANCE: RELENTLESS #1-5.\r<br>Rated T+ ...$13.99\r<br>",
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/20956/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 20956,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb860a46f58d"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 0,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/20956",
+                "series": {
+                    "name": "Penance: Relentless (2008)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/4070"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/20956/stories",
+                    "items": [
+                        {
+                            "name": "Cover #45155",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/45155",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #45156",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/45156",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "From the pages of CIVIL WAR: FRONT LINE and THUNDERBOLTS! Once he was a hero, now only a shell of Robbie Baldwin remains. As Penance, he begins a slow descent into madness: the most hated man in America, blamed for the disaster at Stamford, tortured by visions of his failure and obsessed with strange, seemingly meaningless numbers. A relentless pursuit begins... Collecting PENANCE: RELENTLESS #1-5.\r<br>Rated T+ ...$13.99\r<br>",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb860a46f58d"
+                },
+                "title": "Penance: Relentless (2008)",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/20956/penance_relentless_2008?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/25582/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/25582/creators",
+                    "items": [
+                        {
+                            "name": "David Mack",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/23",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-01-07T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "Collecting the first six art books of Marvel's REFLECTIONS series from multiple Eisner Award-nominated creator David Mack, this gorgeous volume of cover paintings and step-by-step art techniques is being presented in oversized hardcover format to show off Mack's work to full effect. Readers have been waiting for an oversized art-book collection of Mack's work for years, and this monster volume delivers with loads of extras -- including never-before-seen art, new paintings, a cover gallery, figure studies, step-by-step art techniques and commentary, remastered pages, new design pages, a \"Best of Letters\" section, and more! A whopping 320 pages with extra features -- all elegantly collected in a high-end oversized hardcover with high-quality paper, embossment, and an all-new introduction and interview!\r\n320PGS./$39.99\r\nISBN: 978-0-7851-4328-4\r\nTrim size: oversized",
+                "diamondCode": "DEC090577",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/25582/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Hardcover",
+                "id": 25582,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bac3ad5d17c7"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 0,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 320,
+                "prices": [
+                    {
+                        "price": 39.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/25582",
+                "series": {
+                    "name": "Kabuki Reflections Vol. 1 (2010)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/9298"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/25582/stories",
+                    "items": [
+                        {
+                            "name": "Cover #56410",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/56410",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #56411",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/56411",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "Collecting the first six art books of Marvel's REFLECTIONS series from multiple Eisner Award-nominated creator David Mack, this gorgeous volume of cover paintings and step-by-step art techniques is being presented in oversized hardcover format to show off Mack's work to full effect. Readers have been waiting for an oversized art-book collection of Mack's work for years, and this monster volume delivers with loads of extras -- including never-before-seen art, new paintings, a cover gallery, figure studies, step-by-step art techniques and commentary, remastered pages, new design pages, a \"Best of Letters\" section, and more! A whopping 320 pages with extra features -- all elegantly collected in a high-end oversized hardcover with high-quality paper, embossment, and an all-new introduction and interview!\r\n320PGS./$39.99\r\nISBN: 978-0-7851-4328-4\r\nTrim size: oversized",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bac3ad5d17c7"
+                },
+                "title": "Kabuki Reflections Vol. 1 (Hardcover)",
+                "upc": "5960605781-01611",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/25582/kabuki_reflections_vol_1_hardcover?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16229/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16229/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16229/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 16229,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 1,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16229",
+                "series": {
+                    "name": "Cap Transport (2005 - 2006)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2722"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16229/stories",
+                    "items": [
+                        {
+                            "name": "",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33978",
+                            "type": ""
+                        },
+                        {
+                            "name": "cap transport 1 cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/67542",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Cap Transport (2005) #1",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/16229/cap_transport_2005_1?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16245/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16245/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16245/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 16245,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 6,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16245",
+                "series": {
+                    "name": "Cap Transport (2005 - 2006)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2722"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16245/stories",
+                    "items": [
+                        {
+                            "name": "",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34017",
+                            "type": ""
+                        },
+                        {
+                            "name": "cap transport 6 cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/67544",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Cap Transport (2005) #6",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/16245/cap_transport_2005_6?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21474/characters",
+                    "items": [
+                        {
+                            "name": "X-Men (Ultimate)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21474/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21474/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 21474,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 0,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21474",
+                "series": {
+                    "name": "Ultimate X-Men (Spanish Language Edition) (2000)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/5106"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21474/stories",
+                    "items": [
+                        {
+                            "name": "Cover #48982",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48982",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #48983",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48983",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Ultimate X-Men (Spanish Language Edition) (2000)",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/21474/ultimate_x-men_spanish_language_edition_2000?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21463/characters",
+                    "items": [
+                        {
+                            "name": "Spider-Man (Ultimate)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21463/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21463/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 21463,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 10,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21463",
+                "series": {
+                    "name": "Ultimate Spider-Man (Spanish Language Edition) (2000)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/5105"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21463/stories",
+                    "items": [
+                        {
+                            "name": "Cover #48976",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48976",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #48977",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48977",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Ultimate Spider-Man (Spanish Language Edition) (2000) #10",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/21463/ultimate_spider-man_spanish_language_edition_2000_10?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/27649/characters",
+                    "items": [
+                        {
+                            "name": "Hulk",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/27649/creators",
+                    "items": [
+                        {
+                            "name": "Marko Djurdjevic",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Ariel Olivetti",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Michael Ryan",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Greg Pak",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Fred Van Lente",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7894",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2009-10-29T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "After picking fights with the Juggernaut, Norman Osborn, and the Wolverine clan, the most insane father and son team in the Marvel Universe might actually be bonding.  But everything's about to blow wide open for Bruce Banner and his big, green, barbarian son Skaar when one of the Hulk's greatest enemies brings back the most important villainess Bruce Banner's ever faced.  Who is the Harpy?  And whose side will Banner take when she and Skaar meet sword to claw in a gamma-powered deathmatch?  Stone might bleed, feathers might fly, and hearts might break in the highest stakes battle yet for Banner and Son! Plus, The Savage SHE-HULK continues her quest to find\r\nJennifer Walters in a back-up by Fred Van Lente and\r\nMichael Ryan!\r\nRated A ...$3.99",
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/27649/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 27649,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4badb223f33c9"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 604,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 40,
+                "prices": [
+                    {
+                        "price": 3.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/27649",
+                "series": {
+                    "name": "Incredible Hulks (2010 - 2011)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/8842"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/27649/stories",
+                    "items": [
+                        {
+                            "name": "Cover #60567",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60567",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #60568",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60568",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "After picking fights with the Juggernaut, Norman Osborn, and the Wolverine clan, the most insane father and son team in the Marvel Universe might actually be bonding.  But everything's about to blow wide open for Bruce Banner and his big, green, barbarian son Skaar when one of the Hulk's greatest enemies brings back the most important villainess Bruce Banner's ever faced.  Who is the Harpy?  And whose side will Banner take when she and Skaar meet sword to claw in a gamma-powered deathmatch?  Stone might bleed, feathers might fly, and hearts might break in the highest stakes battle yet for Banner and Son! Plus, The Savage SHE-HULK continues her quest to find\r\nJennifer Walters in a back-up by Fred Van Lente and\r\nMichael Ryan!\r\nRated A ...$3.99",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4badb223f33c9"
+                },
+                "title": "Incredible Hulks (2010) #604 (DJURDJEVIC 70TH ANNIVERSARY VARIANT)",
+                "upc": "5960606637-60421",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/27649/incredible_hulks_2010_604_djurdjevic_70th_anniversary_variant/djurdjevic_70th_anniversary_variant?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "DJURDJEVIC 70TH ANNIVERSARY VARIANT",
+                "variants": [
+                    {
+                        "name": "Incredible Hulks (2010) #604",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27648"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/38041/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/38041/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/38041/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 38041,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 0,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38041",
+                "series": {
+                    "name": "X-Men (2010 - 2013)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/9906"
+                },
+                "stories": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/38041/stories",
+                    "items": [
+                        {
+                            "name": "cover from X-Men #0",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/106732",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "X-Men (2010)",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/38041/x-men_2010?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16670/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16670/creators",
+                    "items": [
+                        {
+                            "name": "Todd Klein",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Jim Krueger",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/267",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Mike Marts",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Mike Raicht",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Peter Pantazis",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/652",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Alex Ross",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Thomas Yeates",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1362",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16670/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 16670,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 0,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16670",
+                "series": {
+                    "name": "UNIVERSE X SPECIAL: CAP 1 (2001)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2977"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16670/stories",
+                    "items": [
+                        {
+                            "name": "Cover #33946",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33946",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cap",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33947",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "UNIVERSE X SPECIAL: CAP 1 (2001)",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/16670/universe_x_special_cap_1_2001?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59557/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59557/creators",
+                    "items": [
+                        {
+                            "name": "Mark Bagley",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Wilson Moss",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2016-07-05T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59557/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 59557,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 10,
+                "modified": "2016-07-15T14:17:32-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 3.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/59557",
+                "series": {
+                    "name": "The Astonishing Ant-Man (2015 - 2016)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20437"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59557/stories",
+                    "items": [
+                        {
+                            "name": "cover from The Astonishing Ant-Man (2015) #10 (TBD ARTIST MOP VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/129620",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from The Astonishing Ant-Man (2015) #10 (TBD ARTIST MOP VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/129621",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "The Astonishing Ant-Man (2015) #10 (Bagley Mighty Men Variant)",
+                "upc": "75960608298801021",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/59557/the_astonishing_ant-man_2015_10_bagley_mighty_men_variant/bagley_mighty_men_variant?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "Bagley Mighty Men Variant",
+                "variants": [
+                    {
+                        "name": "The Astonishing Ant-Man (2015) #10",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55342"
+                    },
+                    {
+                        "name": "The Astonishing Ant-Man (2015) #10 (Frison Death of X Variant)",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60078"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16238/characters",
+                    "items": [
+                        {
+                            "name": "Captain America",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+                        },
+                        {
+                            "name": "Crossbones",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009252"
+                        },
+                        {
+                            "name": "Red Skull",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535"
+                        },
+                        {
+                            "name": "Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010898"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16238/creators",
+                    "items": [
+                        {
+                            "name": "Tom Brevoort",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Molly Lazer",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5248",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Joe Quesada",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Ed Brubaker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Vc Joe Caramagna",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Frank D'ARMATA",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Steve Epting",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16238/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 16238,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 18,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16238",
+                "series": {
+                    "name": "Cap Transport (2005 - 2006)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2722"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16238/stories",
+                    "items": [
+                        {
+                            "name": "Captain America",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34002",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Twenty-First Century Blitz Part One",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34003",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Cap Transport (2005) #18",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/16238/cap_transport_2005_18?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21483/characters",
+                    "items": [
+                        {
+                            "name": "X-Men (Ultimate)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21483/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21483/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 21483,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 6,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 36,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21483",
+                "series": {
+                    "name": "Ultimate X-Men (Spanish Language Edition) (2000)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/5106"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21483/stories",
+                    "items": [
+                        {
+                            "name": "Cover #48994",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48994",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #48995",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48995",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Ultimate X-Men (Spanish Language Edition) (2000) #6",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/21483/ultimate_x-men_spanish_language_edition_2000_6?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21472/characters",
+                    "items": [
+                        {
+                            "name": "Spider-Man (Ultimate)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21472/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21472/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 21472,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 8,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 2.25,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21472",
+                "series": {
+                    "name": "Ultimate Spider-Man (Spanish Language Edition) (2000)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/5105"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21472/stories",
+                    "items": [
+                        {
+                            "name": "Cover #48972",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48972",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #48973",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48973",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Ultimate Spider-Man (Spanish Language Edition) (2000) #8",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/21472/ultimate_spider-man_spanish_language_edition_2000_8?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37529/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37529/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "Castle Crydee has stood against the kingdom's enemies for years. But now, an enemy from another world threatens to destroy the kingdom, and Prince Arutha must answer the call! Meanwhile, Pug goes on the offensive with his master in the enemy camp!",
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37529/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Digital Comic",
+                "id": 37529,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 13,
+                "modified": "2014-05-08T12:18:41-0400",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37529",
+                "series": {
+                    "name": "Magician: Apprentice Riftwar Saga (2010 - Present)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/13431"
+                },
+                "stories": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37529/stories",
+                    "items": [
+                        {
+                            "name": "cover from Magician: Apprentice Riftwar Saga #13",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/106310",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "Castle Crydee has stood against the kingdom's enemies for years. But now, an enemy from another world threatens to destroy the kingdom, and Prince Arutha must answer the call! Meanwhile, Pug goes on the offensive with his master in the enemy camp!",
+                        "type": "issue_preview_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Magician: Apprentice Riftwar Saga (2010) #13",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/37529/magician_apprentice_riftwar_saga_2010_13?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37505/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37505/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37505/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Digital Comic",
+                "id": 37505,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 9,
+                "modified": "2014-05-08T12:18:41-0400",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37505",
+                "series": {
+                    "name": "Marvels Vol. 1 (1994)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/13495"
+                },
+                "stories": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37505/stories",
+                    "items": [
+                        {
+                            "name": "cover from Marvels Vol. 1 #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/106391",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Marvels Vol. 1 (1994) #9",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/37505/marvels_vol_1_1994_9?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59548/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59548/creators",
+                    "items": [
+                        {
+                            "name": "Rafael Albuquerque",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10936",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Daniel Ketchum",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2016-06-29T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59548/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 59548,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/56f462d8f0eef"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 8,
+                "modified": "2016-07-08T10:51:01-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 3.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/59548",
+                "series": {
+                    "name": "Old Man Logan (2016 - Present)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20617"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/59548/stories",
+                    "items": [
+                        {
+                            "name": "cover from Old Man Logan (2016) #8 (TBD ARTIST MOP VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/129602",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "story from Old Man Logan (2016) #8 (TBD ARTIST MOP VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/129603",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Old Man Logan (2016) #8 (Albuquerque Mighty Men Variant)",
+                "upc": "75960608336700821",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/59548/old_man_logan_2016_8_albuquerque_mighty_men_variant/albuquerque_mighty_men_variant?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "Albuquerque Mighty Men Variant",
+                "variants": [
+                    {
+                        "name": "Old Man Logan (2016) #8",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56155"
+                    },
+                    {
+                        "name": "Old Man Logan (2016) #8 (Albuquerque Death of X Variant)",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60075"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21171/characters",
+                    "items": [
+                        {
+                            "name": "Spider-Man",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21171/creators",
+                    "items": [
+                        {
+                            "name": "Bob Gale",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4953",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Barry Kitson",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Michael Turner",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/856",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "The frighteningly funky and fearsome Freak returns, more powerful than ever! And this action-packed issue features the \r<br>gorgeous art of Barry Kitson - fresh from Marvel's THE ORDER!  Plus: Menace! Curt Connors!  Aunt May!  Lots of innocent bystanders!  Gale wrote it, Wacker edited it, and Marvel actually thought it was a good idea to publish it!\r<br>Rated A ...$2.99 \r<br>",
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21171/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 21171,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 558,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 2.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21171",
+                "series": {
+                    "name": "Amazing Spider-Man (1999 - 2013)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21171/stories",
+                    "items": [
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/46768",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/46769",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "The frighteningly funky and fearsome Freak returns, more powerful than ever! And this action-packed issue features the \r<br>gorgeous art of Barry Kitson - fresh from Marvel's THE ORDER!  Plus: Menace! Curt Connors!  Aunt May!  Lots of innocent bystanders!  Gale wrote it, Wacker edited it, and Marvel actually thought it was a good idea to publish it!\r<br>Rated A ...$2.99 \r<br>",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Amazing Spider-Man (1999) #558 (Turner Variant)",
+                "upc": "5960604716-55821",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/21171/amazing_spider-man_1999_558_turner_variant/turner_variant?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "Turner Variant",
+                "variants": [
+                    {
+                        "name": "Amazing Spider-Man (1999) #558",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21172"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16231/characters",
+                    "items": [
+                        {
+                            "name": "Captain America",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16231/creators",
+                    "items": [
+                        {
+                            "name": "Tom Brevoort",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Molly Lazer",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5248",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Andy Schmidt",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4371",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Ed Brubaker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Frank D'ARMATA",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Steve Epting",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Vc Randy Gentile",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16231/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 16231,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 11,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16231",
+                "series": {
+                    "name": "Cap Transport (2005 - 2006)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2722"
+                },
+                "stories": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16231/stories",
+                    "items": [
+                        {
+                            "name": "The Winter Soldier, Part 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33983",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The Winter Soldier, Part 3 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33984",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Freedom of Speech",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33985",
+                            "type": "letters"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Cap Transport (2005) #11",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/16231/cap_transport_2005_11?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16247/characters",
+                    "items": [
+                        {
+                            "name": "Captain America",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+                        },
+                        {
+                            "name": "Red Skull",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16247/creators",
+                    "items": [
+                        {
+                            "name": "Tom Brevoort",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Molly Lazer",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5248",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Andy Schmidt",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4371",
+                            "role": "editor"
+                        },
+                        {
+                            "name": "Ed Brubaker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Virtual Calligr",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Frank D'ARMATA",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Steve Epting",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Joe Jusko",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/334",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16247/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 16247,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 8,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 0,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16247",
+                "series": {
+                    "name": "Cap Transport (2005 - 2006)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2722"
+                },
+                "stories": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/16247/stories",
+                    "items": [
+                        {
+                            "name": "[Cover A]; The Winter Soldier, Part 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34021",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "[Cover B ]",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34022",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The Winter Soldier, Part 1 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34023",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Freedom of Speech",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/34024",
+                            "type": "letters"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Cap Transport (2005) #8",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/16247/cap_transport_2005_8?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21476/characters",
+                    "items": [
+                        {
+                            "name": "X-Men (Ultimate)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21476/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2029-12-31T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "-0001-11-30T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": null,
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21476/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 21476,
+                "images": [],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 12,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "pageCount": 36,
+                "prices": [
+                    {
+                        "price": 0,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21476",
+                "series": {
+                    "name": "Ultimate X-Men (Spanish Language Edition) (2000)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/5106"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/21476/stories",
+                    "items": [
+                        {
+                            "name": "Cover #49006",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49006",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #49007",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49007",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "title": "Ultimate X-Men (Spanish Language Edition) (2000) #12",
+                "upc": "",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/21476/ultimate_x-men_spanish_language_edition_2000_12?utm_campaign=apiRef&utm_source=9dc2b6b06a660751ad6b79e07538ab70"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            }
+        ],
+        "total": 44009
+    },
+    "etag": "a62d5bf03199f0371b5641cc303cef8deef4c6f1",
+    "status": "Ok"
+}
