@@ -79,3 +79,7 @@ fi
 
 export marvel_public_key='9dc2b6b06a660751ad6b79e07538ab70'
 export marvel_private_key='666da9e440e7bbe2f6aa83885a70af7ce8c13e3d'
+
+export youtube_API_KEY='AIzaSyCYca1WhwdN9TmSTzO3uPYntSQ7L9NWprw'
+export youtube_client_id='439209974922-m59fld3bd2hflnkt8e0g2ke7jdqlilq7.apps.googleusercontent.com'
+export youtube_client_secret='Y_IOZo5-2pjbRZQD7hjuWNjE'
