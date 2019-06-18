@@ -8,11 +8,11 @@ fetch(api_request)
 	let image_title = data.title;
 	let image_url = data.url;
 	let image_explain = data.explanation;
-	
+
 	/* CHANGE THE TITLE, BACKGROUND IMAGE, AND EXPLANATION*/
 	document.getElementById("imageTitle").innerHTML = image_title;
 	document.body.style.backgroundImage = "url('" + image_url + "')";
 	document.getElementById("imageExplanation").innerHTML = image_explain;
-	
+
 	/* EXIT*/
 })
