@@ -13,6 +13,5 @@ fetch(api_request)
 	document.getElementById("imageTitle").innerHTML = image_title;
 	document.body.style.backgroundImage = "url('" + image_url + "')";
 	document.getElementById("imageExplanation").innerHTML = image_explain;
-
 	/* EXIT*/
 })
