@@ -3,13 +3,14 @@ import requests
 import datetime
 import webbrowser
 from datetime import timedelta
+import time
 
 office_ips = [
 	'223.230.66.40',
 	'183.82.107.34',
 ]
 
-last_train_time = datetime.time(20, 42, 00)
+last_train_time = datetime.time(21, 42, 00)
 warning_video = 'https://www.youtube.com/watch?v=CduA0TULnow'
 
 url = 'https://jsonip.com/'
@@ -28,8 +29,8 @@ def get_ip():
 		minutes	= divmod(hours[1], 60)						# Use remainder of hours to calc minutes
 
 		time_remaining = "{} hours {} minutes".format(hours[0], minutes[0])
-
-		if minutes[0] < 30:
+		print(minutes[0])
+		if hours[0] == 0 and minutes[0] < 30:
 			webbrowser.open(warning_video)
 			notify("Leave Now to reach home on time", "You have {} before last train leaves".format(time_remaining), "Alert | Last Metro Remainder", 'Sosumi')
 
@@ -51,4 +52,5 @@ def notify(title, text, subtitle, Audio):
         """.format(title, text, Audio))
 
 if __name__ == '__main__':
+	time.sleep(5)
 	get_ip()
