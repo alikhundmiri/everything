@@ -15,7 +15,7 @@ def create_image(account_name):
     # Take two is a code from stackoverflow, it detects the size of image, and assigns the proper font size.
     image = Image.new("RGB",(1080, 1350), color=light_gray_colour)
     draw = ImageDraw.Draw(image)
-    followers = say_the_words(4047)
+    followers = say_the_words(43059)
 
     txt_before = 'Yes, I finally have'
     txt_main = followers
