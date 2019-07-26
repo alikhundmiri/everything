@@ -32,10 +32,10 @@ def get_ip():
 		print(minutes[0])
 		if hours[0] == 0 and minutes[0] < 30:
 			webbrowser.open(warning_video)
-			notify("Leave Now to reach home on time", "You have {} before last train leaves".format(time_remaining), "Alert | Last Metro Remainder", 'Sosumi')
+			notify("Travel Time: 45 Minutes", "You have {} before last train leaves".format(time_remaining), "Alert | Last Metro Remainder", 'Sosumi')
 
 		else:	
-			notify("Leave Now to reach home on time", "You have {} minutes before last train leaves".format(time_remaining), "Last Metro Remainder", 'Hero')
+			notify("Travel Time: 45 Minutes", "You have {} before last train leaves".format(time_remaining), "Last Metro Remainder", 'Hero')
 
 	else:
 		print("You are not in office")
