@@ -15,27 +15,35 @@ warning_video = 'https://www.youtube.com/watch?v=CduA0TULnow'
 
 url = 'https://jsonip.com/'
 
+walk_office_to_metro = 5
+metro_wait_average = 3
+metro_ride_1 = 8
+metro_ride_2 = 22
+walk_metro_to_home = 20
+
 def get_ip():
 	r = requests.get(url)
 	response = r.json()
 	current_ip = response['ip']
 	if current_ip in office_ips:
-		current_time = datetime.datetime.now().time()
-		print("Its {} and you are in office with ip address: {}".format(current_time, current_ip))
-		last_train_in = datetime.datetime.combine(datetime.date.today(), last_train_time) - datetime.datetime.combine(datetime.date.today(), current_time)
+		current_time = datetime.datetime.now()
+		current_time_str = str('{:%I:%M %p}'.format(current_time.time()))
+		print("Its {} and you are in office with ip address: {}".format(current_time_str, current_ip))
+		last_train_in = datetime.datetime.combine(datetime.date.today(), last_train_time) - datetime.datetime.combine(datetime.date.today(), current_time.time())
+
+		add_minutes = walk_office_to_metro + metro_wait_average + metro_ride_1 + metro_wait_average + metro_ride_2 + walk_metro_to_home
+		estimated_arrival = current_time + timedelta(minutes=add_minutes)
 
 		days	= divmod(last_train_in.seconds, 86400)		# Get days
-		hours 	= divmod(days[1], 3600)						# Use remainder of days to calc hours
-		minutes	= divmod(hours[1], 60)						# Use remainder of hours to calc minutes
+		hours 	= divmod(days[1], 3600)						# Use Reminder of days to calc hours
+		minutes	= divmod(hours[1], 60)						# Use Reminder of hours to calc minutes
 
-		time_remaining = "{} hours {} minutes".format(hours[0], minutes[0])
-		print(minutes[0])
+		time_remaining = "{} hours {} mins".format(hours[0], minutes[0])
 		if hours[0] == 0 and minutes[0] < 30:
 			webbrowser.open(warning_video)
-			notify("Travel Time: 45 Minutes", "You have {} before last train leaves".format(time_remaining), "Alert | Last Metro Remainder", 'Sosumi')
-
+			notify("Leave now to reach home by {}".format('{:%I:%M %p}'.format(estimated_arrival)), "Last train leaves in {}".format(time_remaining), "ALERT | Last Metro Reminder", 'Hero')
 		else:	
-			notify("Travel Time: 45 Minutes", "You have {} before last train leaves".format(time_remaining), "Last Metro Remainder", 'Hero')
+			notify("Leave now to reach home by {}".format('{:%I:%M %p}'.format(estimated_arrival)), "Last train leaves in {}".format(time_remaining), "Last Metro Reminder", 'Hero')
 
 	else:
 		print("You are not in office")
