@@ -46,7 +46,7 @@ def get_ip():
 			notify("Leave now to reach home by {}".format('{:%I:%M %p}'.format(estimated_arrival)), "Last train leaves in {}".format(time_remaining), "Last Metro Reminder", 'Hero')
 
 	else:
-		print("You are not in office")
+		pass
 
 
 def notify(title, text, subtitle, Audio):
