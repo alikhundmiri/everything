@@ -62,12 +62,17 @@ def start(url):
 	response = ''
 	try:
 		response = requests.get(url)
-		pass
 	except requests.exceptions.MissingSchema as e:
-		print("oops, you forgot the https/http in your input. Never mind")
-		new_url = "http://" + url
+		print("oops, you forgot the https/http in your input. Nevermind...")
+		new_url = "https://" + url
 		start(new_url)
-		# raise e
+
+	try:
+		response.raise_for_status()
+	except requests.exceptions.HTTPError as e:
+		# Whoops it wasn't a 200
+		print("Error: " + str(e))
+		return False
 
 	soup = BeautifulSoup(response.text, "lxml")
 	metas = soup.find_all('meta')
@@ -87,6 +92,8 @@ def start(url):
 	# print the results
 	print(url)
 	print_results(keywords, h1_score, h2_score, p_score)
+
+	return True
 
 
 if __name__ == '__main__':
