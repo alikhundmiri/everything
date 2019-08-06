@@ -1,3 +1,4 @@
+import sys
 import nltk
 from nltk.corpus import stopwords
 import requests
@@ -58,8 +59,17 @@ def print_results(keywords, h1_score, h2_score, p_score):
 
 
 def start(url):
-	response = requests.get(url)
-	soup = BeautifulSoup(response.text, "html5lib")
+	response = ''
+	try:
+		response = requests.get(url)
+		pass
+	except requests.exceptions.MissingSchema as e:
+		print("oops, you forgot the https/http in your input. Never mind")
+		new_url = "http://" + url
+		start(new_url)
+		# raise e
+
+	soup = BeautifulSoup(response.text, "lxml")
 	metas = soup.find_all('meta')
 	h1_tags = soup.find_all('h1')
 	h2_tags = soup.find_all('h2')
@@ -75,7 +85,17 @@ def start(url):
 	# count keyword occurance in H1, H2, and P tags
 	h1_score, h2_score, p_score = get_details(keywords, h1_tags_text, h2_tags_text, p_tags_text)
 	# print the results
+	print(url)
 	print_results(keywords, h1_score, h2_score, p_score)
 
+
 if __name__ == '__main__':
-	start('http://ardizen.com/landing-page/experience-art-investment.html')
+	default_link = ''
+
+	if len(sys.argv) > 1:
+		default_link = sys.argv[1]
+
+	elif len(sys.argv) == 1:
+		default_link = 'http://ardizen.com/landing-page/experience-art-investment.html'
+
+	start(default_link)
