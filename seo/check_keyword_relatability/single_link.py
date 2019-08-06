@@ -51,11 +51,13 @@ def get_tag_text(tags):
 		list_tags.append(tag.get_text(separator=' '))
 	return list_tags
 
-def print_results(keywords, h1_score, h2_score, p_score):		
+def print_results(url, keywords, h1_score, h2_score, p_score):		
+	print("\nResults for webpage: {}".format(url))
 	print("{} \t| {} - {} - {} | {}".format("#", "h1", "h2", "p", "keyword"))
 	print("__________________________")
 	for i, (keyword, h1, h2, p) in enumerate(zip(keywords, h1_score, h2_score, p_score)):
 		print("{} \t| {} - {} - {} | {}".format(i, h1, h2, p, keyword))
+	print("__________________________\n")
 
 
 def start(url):
@@ -90,8 +92,7 @@ def start(url):
 	# count keyword occurance in H1, H2, and P tags
 	h1_score, h2_score, p_score = get_details(keywords, h1_tags_text, h2_tags_text, p_tags_text)
 	# print the results
-	print(url)
-	print_results(keywords, h1_score, h2_score, p_score)
+	print_results(url, keywords, h1_score, h2_score, p_score)
 
 	return True
 
