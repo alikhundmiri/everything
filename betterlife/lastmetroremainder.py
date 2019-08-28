@@ -6,8 +6,8 @@ from datetime import timedelta
 import time
 
 office_ips = [
-	'223.230.66.40',
-	'183.82.107.34',
+	'123.456.78.75',
+	'123.42.17.31',
 ]
 
 last_train_time = datetime.time(22, 00, 00)
