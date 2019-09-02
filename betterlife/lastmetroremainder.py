@@ -5,6 +5,9 @@ import webbrowser
 from datetime import timedelta
 import time
 
+# if you just downloaded this file, create credentials.py in the same folder as this file
+from credentials import TELEGRAM_TOKEN_METROREMINDER, PERSONAL_ID_TELEGRAM
+
 office_ips = [
 	'223.230.66.40',
 	'183.82.107.34',
@@ -20,8 +23,6 @@ metro_wait_average = 3
 metro_ride_1 = 8
 metro_ride_2 = 22
 walk_metro_to_home = 20
-
-
 
 def log_file(message):
 	file_name = '{}/lastmetroreminder_{}.txt'.format(os.path.dirname(sys.argv[0]),'{:02d}'.format(datetime.date.today().month))
@@ -59,14 +60,23 @@ def get_ip():
 
 
 def notify(title, text, subtitle, Audio):
-    if subtitle:
-        os.system("""
-        osascript -e 'display notification "{}" with title "{}" subtitle "{}" sound name "{}"'
-        """.format(title, subtitle, text, Audio))
-    else:
-        os.system("""
-        osascript -e 'display notification "{}" with title "{}" sound name "{}"'
-        """.format(title, text, Audio))
+		os.system("""
+		osascript -e 'display notification "{}" with title "{}" subtitle "{}" sound name "{}"'
+		""".format(title, subtitle, text, Audio))
+		send_message(title, text, subtitle)
+
+
+def send_message(title, text, subtitle):
+	''' Send message to on telegram '''
+	text_message = '''
+		*{}*
+		{}
+		_{}_
+	'''.format(subtitle, text, title)
+	url  = 'https://api.telegram.org/bot{}/sendMessage'.format(TELEGRAM_TOKEN_METROREMINDER)
+	payload = {'text': text_message, 'chat_id':PERSONAL_ID_TELEGRAM, 'parse_mode':'Markdown'}
+	r = requests.post(url, data=payload)
+
 
 if __name__ == '__main__':
 	time.sleep(5)
